@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://boocooyai.gannonogara.com/sitemap.xml
